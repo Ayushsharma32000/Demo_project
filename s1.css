@@ -1,0 +1,116 @@
+.img1{
+margin: 0px 0px;
+
+}
+
+.menu{
+	background-color: rgb(34, 21, 21);
+}
+
+hr{
+background-color:whitesmoke;	
+height: 2px;
+width: 90%;
+text-align: center
+}
+
+.abx  {
+	background: transparent url(./image/6.jpg) no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0px auto 0px;
+	padding-top: 50px;
+
+	
+	
+}
+
+.bq{
+
+	margin-left: 25%;
+}
+/* .aby{
+border-color: red;
+width: 20px;
+
+}
+ */
+#f1 {
+	background: transparent url(./image/6.jpg) no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	height: 50pc;
+	margin-top: 75px;
+}
+
+.carousel-item img{
+ width: auto;
+ height: 245px;
+ max-height: 575px;
+ margin: auto; 
+ display: block;
+ }
+
+
+.bdr{
+	width: 16cm;
+	height: 40pc;
+	
+	text-align: center center;
+	border: 2px solid transparent;
+	height: 600px;
+	width: 80%;
+	margin: 0px 125px 0px;
+	align-content: center center;
+}
+
+
+.bdr1 {
+	width: 20cm;
+	height: 40pc;
+	text-align: center center;
+	border: 2px solid transparent;
+	height: 600px;
+	width: 80%;
+	align-content: center center;
+}
+
+
+.txtbg{
+background-size: contain;
+justify-content: center;
+justify-items: center;
+margin: 50px 35%;
+width: 70%;
+height: 625px;
+
+}
+
+.text{
+	color: rgb(145, 236, 145);
+	font-family: 'Times New Roman', Times, serif;
+	padding-top: 40px;
+	
+}
+.by{
+	color: aquamarine;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+	
+}
+
+.bdr3{
+justify-content: center;
+justify-items: center;
+margin: 50px 30% 0px;
+height: 625px;
+}
+
+.card{
+width: 650px;
+}
+.pic{
+	border: 3px gray solid;
+	
+}
